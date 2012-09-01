@@ -5,7 +5,7 @@
 */
 
 #include <arduino.h> // pour la fonction micros()
-#include <Servo.h> // lib des servomoteurs
+#include "Servo.h" // lib des servomoteurs
 
 #include "fonctions.h"
 
