@@ -4,10 +4,10 @@
    Derniere modif : 22/07/2012
 */
 
-#include <arduino.h> // pour la fonction micros()
+#include <Arduino.h> // pour la fonction micros()
 #include "Servo.h" // lib des servomoteurs
 
-#include "fonctions.h"
+#include "marteau.h"
 
 static Servo servo;
 static int pos = 0;
